@@ -8,7 +8,9 @@
     "build": "dumi build",
     "prepare": "husky install && dumi setup"
   },
-  "authors": [],
+  "authors": [
+    "eleven"
+  ],
   "license": "MIT",
   "commitlint": {
     "extends": [

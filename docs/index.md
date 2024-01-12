@@ -4,14 +4,14 @@ hero:
   title: Site
   description: A static site based on dumi
   actions:
-    - text: Hello1
+    - text: Hello
       link: /
     - text: World
       link: /
 features:
   - title: Hello
     emoji: 💎
-    description: Put1 hello description here
+    description: Put hello description here
   - title: World
     emoji: 🌈
     description: Put world description here
